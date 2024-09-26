@@ -1,4 +1,3 @@
-//jo login hai woh hi product access kar sakta hai
 
 const ErrorHandler = require("../utils/errorHandler");
 const User = require('../models/userModel'); //userSchema
